@@ -1,0 +1,10 @@
+{
+	"manifest_version": 2,
+	"name": "Pacman",
+	"version": "0.0.1",
+	"permissions": ["tabs", "storage"],
+	"browser_action": {
+		"default_title": "PAC MAN",
+		"default_popup": "index.html"
+	}
+}
